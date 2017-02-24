@@ -460,8 +460,8 @@ imports:
 - name: github.com/vdemeester/docker-events
   version: be74d4929ec1ad118df54349fda4b0cba60f849b
 - name: github.com/vulcand/oxy
-  version: fcc76b52eb8568540a020b7a99e854d9d752b364
-  repo: https://github.com/containous/oxy.git
+  version: f08c103311bd97fce6250f8309e7fd2d07de080f
+  repo: https://github.com/akanto/oxy.git
   vcs: git
   subpackages:
   - cbreaker
