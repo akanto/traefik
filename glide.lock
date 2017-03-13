@@ -460,7 +460,7 @@ imports:
 - name: github.com/vdemeester/docker-events
   version: be74d4929ec1ad118df54349fda4b0cba60f849b
 - name: github.com/vulcand/oxy
-  version: f08c103311bd97fce6250f8309e7fd2d07de080f
+  version: fceccbf6268e1bdea1daec1aa32b3cc2391064fa
   repo: https://github.com/akanto/oxy.git
   vcs: git
   subpackages:

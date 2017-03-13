@@ -9,7 +9,7 @@ import:
 - package: github.com/containous/flaeg
   version: a731c034dda967333efce5f8d276aeff11f8ff87
 - package: github.com/vulcand/oxy
-  version: f08c103311bd97fce6250f8309e7fd2d07de080f
+  version: fceccbf6268e1bdea1daec1aa32b3cc2391064fa
   repo: https://github.com/akanto/oxy.git
   vcs: git
   subpackages:
